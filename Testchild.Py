@@ -1,0 +1,1 @@
+Print("Pampers are expensive")
